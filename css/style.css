@@ -311,11 +311,11 @@ li.active{
 a.active{
 	color: white;
 }
-.pagination_pages-item:hover{
+/*.pagination_pages-item:hover{
 	background: #27273e;
 	border-radius: 5px;
 	color: white;
-}
+}*/
 /*.pagination_link:hover{
 	color: white;
 	background-color: #282840;
