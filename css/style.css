@@ -16,6 +16,8 @@
 body{
 	margin: 0;
 	font-family:  GothaProBol;
+	/*добавил мин ширину*/
+	min-width: 1100px;
 }
 
 .header{
