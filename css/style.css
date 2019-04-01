@@ -289,6 +289,7 @@ ul.pagination_pages{
 	text-decoration: none;
 	position: relative;
 	top: 3px;
+	color: black;
 }
 .pagination_prev{
 	text-decoration: none;
@@ -315,11 +316,11 @@ a.active{
 	border-radius: 5px;
 	color: white;
 }
-.pagination_link:hover{
+/*.pagination_link:hover{
 	color: white;
 	background-color: #282840;
 	border-radius: 5px;
-}
+}*/
 
 
 .footer{
